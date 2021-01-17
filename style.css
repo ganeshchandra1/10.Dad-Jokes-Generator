@@ -47,9 +47,10 @@ body {
 }
 #btn:hover {
   outline: none;
-  background-color: rgb(170, 69, 253);
+  /* background-color: rgb(170, 69, 253); */
+  background-color: whitesmoke;
   border-radius: 8px;
-  color: white;
+  color: black;
   transform: scale(0.98);
 }
 @media only screen and (max-width: 600px) {
