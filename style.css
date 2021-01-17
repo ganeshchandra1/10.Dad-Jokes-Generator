@@ -49,6 +49,11 @@ body {
   outline: none;
   background-color: rgb(170, 69, 253);
   border-radius: 8px;
-  color: black;
+  color: white;
   transform: scale(0.98);
+}
+@media only screen and (max-width: 600px) {
+  .container {
+    width: 100%;
+  }
 }
